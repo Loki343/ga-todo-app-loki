@@ -24,6 +24,11 @@
       "value": "E",
       "isCompleted": false,
       "id": 5
+    },
+    {
+      "value": "F",
+      "isCompleted": false,
+      "id": 6
     }
   ]
 }
